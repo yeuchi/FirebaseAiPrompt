@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648705427402",
+    "project_id": "prompt-742f3",
+    "storage_bucket": "prompt-742f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648705427402:android:3d001b7b5f57e326b0b133",
+        "android_client_info": {
+          "package_name": "com.ctyeung.prompt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55pFI0ER4_WcY6cDofyrZPLxRb9-AYYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
